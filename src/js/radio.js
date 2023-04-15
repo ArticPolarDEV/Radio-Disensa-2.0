@@ -1,0 +1,1 @@
+document.getElementById("logoimg").src = "./imgs/logo/RadioDisensa.png"

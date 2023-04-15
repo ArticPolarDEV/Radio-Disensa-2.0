@@ -1,5 +1,4 @@
 # Radio-Disensa-2.0
-Radio Disensa 2.0
 
 ## Minimum requirements before compiling source code:
 - NPM 9.5.1
